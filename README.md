@@ -18,7 +18,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 
 ## Results
 
-### Key Takeaways
+### Key Takeaways: Where can efforts be focused to mitigate wildlife strikes?
 
 * Focus on birds as a main priority.
 * Focus on key species for prevention/mitigation efforts:
