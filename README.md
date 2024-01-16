@@ -25,6 +25,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
   * Birds  - Canada Goose, Mourning dove, Gulls, Barn Swallow
   * Bats - Vesper bats, Microbats, Brazilian free-tailed bat
   * Terrestrial mammals - White-tailed deer, Coyote
+* Focus efforts in New York, Colorado, California, Florida, and Oregon.
 * Increase awareness in Spring/Summer months. FAA runs an awareness campaign to have people report strikes.
 * Increase awareness/checks during daytime flights.
 * Look into mitigation for take-off, approach, and landing roll phases of flight.
@@ -36,18 +37,19 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 
 **Findings:** 
 * New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
+* Other states with high cost are Colorado, California, Florida, and Oregon.
 
 ### Which species are affected by the strikes?
 
-**Visualizations used:**
-* Scatterplot of dollar cost vs. number of strikes for species.
-
-**Findings:** 
- * Of the 4 animal categories (bats, birds, reptiles, terrestrial mammals), birds account for the most strikes. 
- * Some birds have a high number of strikes (e.g. Mourning Dove, Gulls, Barn Swallow) but relatively low dollar cost. However, the Canada Goose has only 564 strikes out of 28,298 but accounts for almost $80M in dollar cost.
- * Bats have fewer strikes but a similar pattern. Vesper bats have a lower number of strikes than other bats but result in a greater dollar cost.
- * For terrestrial mammals, white-tailed deer have a high number of strikes and dollar cost. Coyotes have a high number of strikes but compartively less dollar cost.
- * Reptile strikes are much lower and result in no recorded dollar cost.
+ **Visualizations used:**
+ * Scatterplot of dollar cost vs. number of strikes for species.
+ 
+ **Findings:** 
+  * Of the 4 animal categories (bats, birds, reptiles, terrestrial mammals), birds account for the most strikes. 
+  * Some birds have a high number of strikes (e.g. Mourning Dove, Gulls, Barn Swallow) but relatively low dollar cost. However, the Canada Goose has only 564 strikes out of 28,298 but accounts for almost $80M in dollar cost.
+  * Bats have fewer strikes but a similar pattern. Vesper bats have a lower number of strikes than other bats but result in a greater dollar cost.
+  * For terrestrial mammals, white-tailed deer have a high number of strikes and dollar cost. Coyotes have a high number of strikes but compartively less dollar cost.
+  * Reptile strikes are much lower and result in no recorded dollar cost.
 
 ### What are the effects of wildlife strikes on aircraft?
 
@@ -71,8 +73,6 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 * Over the years the number of strikes have increased.
 * Strike frequency begins to increase from the start of the year and typically peaks in the summer, before decreasing again. Forecasting predicts the increase will and peak pattern will continue.
 * On a smaller scale, most strikes occur during the day, and during the takeoff, approach, and landing roll phases of flight.
-
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
 ## Challenges 
 (discuss challenges you faced in the project)
