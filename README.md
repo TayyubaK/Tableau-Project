@@ -41,15 +41,15 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 
 ### Which species are affected by the strikes?
 
- **Visualizations used:**
- * Scatterplot of dollar cost vs. number of strikes for species.
- 
- **Findings:** 
-  * Of the 4 animal categories (bats, birds, reptiles, terrestrial mammals), birds account for the most strikes. 
-  * Some birds have a high number of strikes (e.g. Mourning Dove, Gulls, Barn Swallow) but relatively low dollar cost. However, the Canada Goose has only 564 strikes out of 28,298 but accounts for almost $80M in dollar cost.
-  * Bats have fewer strikes but a similar pattern. Vesper bats have a lower number of strikes than other bats but result in a greater dollar cost.
-  * For terrestrial mammals, white-tailed deer have a high number of strikes and dollar cost. Coyotes have a high number of strikes but compartively less dollar cost.
-  * Reptile strikes are much lower and result in no recorded dollar cost.
+**Visualizations used:**
+* Scatterplot of dollar cost vs. number of strikes for species.
+
+**Findings:** 
+ * Of the 4 animal categories (bats, birds, reptiles, terrestrial mammals), birds account for the most strikes. 
+ * Some birds have a high number of strikes (e.g. Mourning Dove, Gulls, Barn Swallow) but relatively low dollar cost. However, the Canada Goose has only 564 strikes out of 28,298 but accounts for almost $80M in dollar cost.
+ * Bats have fewer strikes but a similar pattern. Vesper bats have a lower number of strikes than other bats but result in a greater dollar cost.
+ * For terrestrial mammals, white-tailed deer have a high number of strikes and dollar cost. Coyotes have a high number of strikes but compartively less dollar cost.
+ * Reptile strikes are much lower and result in no recorded dollar cost.
 
 ### What are the effects of wildlife strikes on aircraft?
 
@@ -75,7 +75,8 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 * On a smaller scale, most strikes occur during the day, and during the takeoff, approach, and landing roll phases of flight.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+* Null values for some fields (although most of the data had values)
+* Unclear what some of the categories meant and no term glossary
 
 ## Future Goals
 (what would you do if you had more time?)
