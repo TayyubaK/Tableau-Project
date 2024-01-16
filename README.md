@@ -31,7 +31,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 * Look into mitigation for take-off, approach, and landing roll phases of flight.
 
 ### Sub-questions asked to approach main question 
-### Is there anything unique about where strikes are occurring?
+#### Is there anything unique about where strikes are occurring?
 
 **Visualizations used:**
 * Map showing dollar cost of strikes for each U.S. state with colour scale. Size of the circle on the state shows the number of airports in the state.
@@ -40,7 +40,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 * New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
 * Other states with high cost are Colorado, California, Florida, and Oregon.
 
-### Which species are affected by the strikes?
+#### Which species are affected by the strikes?
 
 **Visualizations used:**
 * Scatterplot of dollar cost vs. number of strikes for species.
@@ -52,7 +52,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
  * For terrestrial mammals, white-tailed deer have a high number of strikes and dollar cost. Coyotes have a high number of strikes but compartively less dollar cost.
  * Reptile strikes are much lower and result in no recorded dollar cost.
 
-### What are the effects of wildlife strikes on aircraft?
+#### What are the effects of wildlife strikes on aircraft?
 
 **Visualizations used:**
 * Piechart of indicated damage (caused damage or no damage). 
@@ -64,7 +64,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
  * When damage occurs it is most often classified as minor, and just over 50% of the time does not impact the flight. However, about 35.31% of the time, a flight may be aborted, have an engine shut down, or result in a precautionary landing.
  * When the damage is classified as substantial, 56.82% of flights are aborted, have engine shut down, or result in a precautionary landing. Substantial damage results in $224,781,943 worth of cost.
 
-### When are strikes occurring?
+#### When are strikes occurring?
 
 **Visualizations used:**
 * Line chart for year over year trend, with forecast for next 2 years.
