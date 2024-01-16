@@ -18,11 +18,22 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 
 ## Results
 
-Visualizations created
+**Is there anything unique about where strikes are occurring?
 
 Map showing dollar cost of strikes for each U.S. state with colour scale. Size of the circle on the state shows the number of airports in the state.
 
-* Result: New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
+* Finding: New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
+
+**Which species are affected by the strikes?
+
+Scatterplot of dollar cost vs. number of strikes for species.
+
+* Findings: 
+    * Of the 4 animal categories (bats, birds, reptiles, terrestrial mammals), birds account for the most strikes. 
+    * Some birds have a high number of strikes (e.g. Mourning Dove, Gulls, Barn Swallow) but relatively low dollar cost. However, the Canada Goose has only 564 strikes out of 28,298 but accounts for almost $80M in dollar cost.
+    * Bats have fewer strikes but a similar pattern. Vesper bats have a lower number of strikes than other bats but result in a greater dollar cost.
+    * For terrestrial mammals, white-tailed deer have a high number of strikes and dollar cost. Coyotes have a high number of strikes but compartively less dollar cost.
+    * Reptile strikes are much lower and result in no recorded dollar cost.
 
 
 
