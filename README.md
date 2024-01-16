@@ -18,6 +18,17 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 
 ## Results
 
+### Key Takeaways
+
+* Focus on birds as a main priority.
+* Focus on key species for prevention/mitigation efforts:
+  * Birds  - Canada Goose, Mourning dove, Gulls, Barn Swallow
+  * Bats - Vesper bats, Microbats, Brazilian free-tailed bat
+  * Terrestrial mammals - White-tailed deer, Coyote
+* Increase awareness in Spring/Summer months. FAA runs an awareness campaign to have people report strikes.
+* Increase awareness/checks during daytime flights.
+* Look into mitigation for take-off, approach, and landing roll phases of flight.
+ 
 ### Is there anything unique about where strikes are occurring?
 
 **Visualizations used:**
