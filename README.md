@@ -79,4 +79,6 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 * Unclear what some of the categories meant and no term glossary
 
 ## Future Goals
-(what would you do if you had more time?)
+* Add animations, images, and URLs.
+* Experiment with other colours and tooltips. 
+* Update dataset as newer data is available.
