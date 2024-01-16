@@ -23,7 +23,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 Visualizations used:
 * Map showing dollar cost of strikes for each U.S. state with colour scale. Size of the circle on the state shows the number of airports in the state.
 
-Finding: 
+Findings: 
 * New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
 
 **Which species are affected by the strikes?**
@@ -50,7 +50,15 @@ Findings:
  * When damage occurs it is most often classified as minor, and just over 50% of the time does not impact the flight. However, about 35.31% of the time, a flight may be aborted, have an engine shut down, or result in a precautionary landing.
  * When the damage is classified as substantial, 56.82% of flights are aborted, have engine shut down, or result in a precautionary landing. Substantial damage results in $224,781,943 worth of cost.
 
+**When are strikes occurring?**
+Visualizations used:
+* Line chart for year over year trend, with forecast for next 2 years.
+* Bar chart to plot number of strikes against time of day and phase of flight.
 
+Findings:
+* Over the years the number of strikes have increased.
+* Strike frequency begins to increase from the start of the year and typically peaks in the summer, before decreasing again. Forecasting predicts the increase will and peak pattern will continue.
+* On a smaller scale, most strikes occur during the day, and during the takeoff, approach, and landing roll phases of flight.
 
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
