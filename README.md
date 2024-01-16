@@ -29,7 +29,8 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 * Increase awareness in Spring/Summer months. FAA runs an awareness campaign to have people report strikes.
 * Increase awareness/checks during daytime flights.
 * Look into mitigation for take-off, approach, and landing roll phases of flight.
- 
+
+### Sub-questions asked to approach main question 
 ### Is there anything unique about where strikes are occurring?
 
 **Visualizations used:**
