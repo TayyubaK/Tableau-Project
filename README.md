@@ -25,7 +25,7 @@ Visualizations used:
 
 * Finding: New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
 
-**Which species are affected by the strikes?
+**Which species are affected by the strikes?**
 
 Visualizations used:
 * Scatterplot of dollar cost vs. number of strikes for species.
