@@ -18,13 +18,13 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 
 ## Results
 
-**Is there anything unique about where strikes are occurring?
+** Is there anything unique about where strikes are occurring?
 
 Map showing dollar cost of strikes for each U.S. state with colour scale. Size of the circle on the state shows the number of airports in the state.
 
 * Finding: New York state has the highest dollar cost from wildlife strikes even though surrounding states have a comparable number of airports.
 
-**Which species are affected by the strikes?
+** Which species are affected by the strikes?
 
 Scatterplot of dollar cost vs. number of strikes for species.
 
