@@ -15,6 +15,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 1. Load excel data file into Tableau
 1. Review data columns and datatypes
 1. Create visualizations to understand relationships and trends in relationship to the guiding question
+1. Order visualizations into a Tableau story with informative notes.
 
 ## Results
 
