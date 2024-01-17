@@ -22,7 +22,7 @@ Guiding question: Where can efforts be focused to mitigate wildlife strikes?
 ### Key Takeaways: Where can efforts be focused to mitigate wildlife strikes?
 
 * Focus on birds as a main priority.
-* Focus on key species for prevention/mitigation efforts:
+* Focus on key species that are strike and cost outliers for prevention/mitigation efforts:
   * Birds  - Canada Goose, Mourning dove, Gulls, Barn Swallow
   * Bats - Vesper bats, Microbats, Brazilian free-tailed bat
   * Terrestrial mammals - White-tailed deer, Coyote
